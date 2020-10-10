@@ -69,7 +69,7 @@ hdfs-site.xml:
   <value>1</value>
  </property>
  
- <property>jps
+ <property>
   <name>dfs.namenode.name.dir</name>
   <value>/usr/local/hadoop-ecosystem/yarn_data/hdfs/namenode</value>
  </property>
